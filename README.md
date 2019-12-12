@@ -1,3 +1,3 @@
 Dev Adventure's
 
-Projeto criado para o hackaton na RSXP.
+MVP of our Project in RS/XP Hackaton.
